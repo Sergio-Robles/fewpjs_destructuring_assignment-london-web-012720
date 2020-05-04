@@ -1,7 +1,7 @@
 # Destructuring Assignment
 
 ## Learning Goals
-
+   
 - Use destructuring to assign data to variables
 
 ## Introduction
